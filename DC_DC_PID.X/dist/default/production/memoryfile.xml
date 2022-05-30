@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/DC_DC_PID.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>8192</length>
+      <used>160</used>
+      <free>8032</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>65274</length>
+      <used>4980</used>
+      <free>60294</free>
+    </memory>
+  </executable>
+</project>
