@@ -1,4 +1,4 @@
-With regards to PID controllers, one must take note of some general tuning rules.
+With regards to PID control, one must take note of some general tuning rules.
 Increasing the integral component helps to arrive at the set point much faster.
 However, the proportional component must be a certain measure higher than the integral component for overall system stability.
 For safety, one must start the kp and ki component at relatively low levels
